@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/H:/school/ChatClient/ChatClient/src/view/senderpanel/MessageTextArea.java</file>
+            <file>file:/H:/school/ChatClient/ChatClient/src/view/AbstractPanel.java</file>
+            <file>file:/H:/school/ChatClient/ChatClient/src/view/GUI.java</file>
+            <file>file:/H:/school/ChatClient/ChatClient/src/model/data/User.java</file>
+            <file>file:/H:/school/ChatClient/ChatClient/src/model/data/Server.java</file>
+            <file>file:/H:/school/ChatClient/ChatClient/src/model/data/OutGoingMessage.java</file>
+            <file>file:/H:/school/ChatClient/ChatClient/src/model/SendReceive.java</file>
+            <file>file:/H:/school/ChatClient/ChatClient/src/view/chatview/ChatView.java</file>
+            <file>file:/H:/school/ChatClient/ChatClient/src/view/loginpanel/LoginPanel.java</file>
+        </group>
+    </open-files>
+</project-private>
